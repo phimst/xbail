@@ -23,7 +23,6 @@ WhatsApp Baileys is an open-source library designed to help developers build aut
 - **`enableBuiltinCommands`** config — toggle built-in commands (default `true`)
 - **`Features/`** module — modul baru yang bisa diimport langsung
 - **Rate Limiter** built-in — otomatis throttle `sendMessage` per-JID, configurable
-- **Built-in Commands** — `.baileys`, `.ping`, `.eval`, `.mesinfo` aktif out-of-the-box
 - **`Function/`** sekarang ter-export dari root package
 
 ---
